@@ -13,9 +13,7 @@ img{
 }
 h1{
   text-align: center;
-  font-size: 25px;
-  color: #333;
-  font-weight:bolder;
+  
 }
 figcaption{
   text-align: center;
@@ -30,17 +28,26 @@ figcaption{
 
 }
 #details div{
-  background-color: aliceblue;
+  background-colorr:red;
   text-align: center;
   width: 25%;
   float: left;
 }
 nav{
-  
-  padding-left: 350px;
-  padding-right: 350px;
+  text-align: center;
+}
+nav a{
+    padding-left: 10px;
+  padding-right: 10px;
   background-color:gray;
   text-align: center;
+} 
+div{
+  background-color: red;
+  
+}
+  
+
 
   
 
